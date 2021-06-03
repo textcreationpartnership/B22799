@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fair Flora's departure; or, Summer's pride abated.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22799</idno><idno type="EEBO-CITATION">99888245</idno>
+  <idno type="VID">201026</idno>
+  <idno type="EEBO-PROQUEST">2248539358</idno>
+  
+            <idno type="STC">Wing F95A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[55]</idno>
+            <idno type="PROQUEST">ocm99888245</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888245e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201026)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[55])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fair Flora's departure; or, Summer's pride abated.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Single column of text, initial.</note>
+                  <note>First line: "Fair Flora, beautiful and gay, to winter now gives room."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Seasons --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:201026:1"/>
+            <head>
+               <figure/>Fair Flora's Departure; OR Summer's Pride abated.</head>
+            <lg>
+               <l>FAIR FLORA, beautiful and gay, to winter now gives room,</l>
+               <l>Who strip'd her of her rich array, made of the finest oom:</l>
+               <l>He with his icy beard came in, and looking her upon,</l>
+               <l>To treat her thus he did begin, Proud FLORA now begone:</l>
+               <l>Here hast thou reign'd six months or more, in all thy gaudy pride,</l>
+               <l>'Im come to summon thee therefore, to lay thy pomp aside;</l>
+               <l>Your flowers that did bloom and blow, shall weather and decline,</l>
+               <l>For in a word I tell thee plain, the fields and groves are mine▪</l>
+               <l>But FLORA, loth to leave the stream, in which she took delight,</l>
+               <l>And banish'd be from summer's beams, but slowly took her flight.</l>
+               <l>What must I leave these groves, said she, that I have deck'd so fine,</l>
+               <l>With spreading bows on every tree, how can'st thou call them thine?</l>
+               <l>Why must I leave the charming notes of birds, that woody choir,</l>
+               <l>Who warble from their tuneful throats what notes I do require</l>
+               <l>O stay a while cold Winter, till those pleasures all decline,</l>
+               <l>And when the floods and rivers fill, my power I'll resign.</l>
+               <l>Go, proud FLORA, post away, make haste, and hence begone,</l>
+               <l>Believe me now what I do say, the floods are coming on;</l>
+               <l>Ill freeze those pretty purling streams, which by thee us'd to glide,</l>
+               <l>And wither all the lovely things, that puff thee up with pride▪</l>
+               <l>O'd Winter, with thy icy beard, be not so harsh to me;</l>
+               <l>For thou shalt never here take place, while leaves are on a tree,</l>
+               <l>For I'm a charming beauty bright, adorn'd with flowers fine;</l>
+               <l>My company is more esteem'd ten thousand times then thine</l>
+               <l>Is this a time to baffle me, now coming into power?</l>
+               <l>I'll blast what does belong to thee, and all thy joys devour:</l>
+               <l>Thy groves and gardens far and near shall look as tho' they die,</l>
+               <l>Thou, in thy turn, didst domineer so FLORA now will I.</l>
+               <l>I'll take possion of thy bowers, in which thou didst remain;</l>
+               <l>Ill make them swim with floating showers, and mighty storms of rain:</l>
+               <l>On thy fair hills and valleys green, so lovely to behold,</l>
+               <l>There shall be nothing felt or seen, but fogs and freezing cold</l>
+               <l>I'll freeze the north-side of the pole, with all my force and might,</l>
+               <l>Thy groves and gardens I'll disrobe, and leave them naked quie;</l>
+               <l>Instead of fruit that us'd to grow on loaded vines and trees,</l>
+               <l>I'l bring vast rocks of ice and snow, and all thy banks will freeze</l>
+               <l>Old Winter never threaten so, I tell thee once again</l>
+               <l>Tho' for a while I hence must go, when 'tis my turn to reign;</l>
+               <l>I'll thaw the gsprings that thou dost freeze, adorn and beautify</l>
+               <l>My gardens oay, and groves and trees, and make thee glad to fly</l>
+               <l>I know if thou could have thy will, always to rule and reign:</l>
+               <l>The fruitful earth would barren grow, and give no sort of grain,</l>
+               <l>No sweet fruits would ever grow, that might men's palates please;</l>
+               <l>This is the cause all envy I thee, for such like tricks as these.</l>
+               <l>I know fair FLORA, thou art better far belov'd than I:</l>
+               <l>To speak the truth, 'tis thy desert, therefore I must comply,</l>
+               <l>Yet you must give me leave some time in power to remain,</l>
+               <l>Next spring you shall return and smile upon the flowery plain</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
